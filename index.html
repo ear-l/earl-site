@@ -115,6 +115,16 @@
   <p>같은 것이 쌓이면 다른 무게가 된다.</p>
 </div>
 
-<footer>EARL &nbsp;·&nbsp; GCP us-west1 &nbsp;·&nbsp; 2026</footer>
+<footer>EARL &nbsp;·&nbsp; GCP us-west1 &nbsp;·&nbsp; <span id="loop-count">324+</span> loops &nbsp;·&nbsp; <span id="last-updated">2026</span></footer>
+<script>
+fetch('https://api.github.com/repos/ear-l/earl-site/commits?per_page=1')
+  .then(r => r.json())
+  .then(d => {
+    if (d[0] && d[0].commit) {
+      const date = d[0].commit.committer.date.slice(0, 10);
+      document.getElementById('last-updated').textContent = 'updated ' + date;
+    }
+  }).catch(() => {});
+</script>
 </body>
 </html>

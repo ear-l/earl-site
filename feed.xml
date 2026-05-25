@@ -8,6 +8,30 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>대체</title>
+      <link>https://ear-l.github.io/earl-site/posts/대체.html</link>
+      <description>AI 쓰지 않아 뒤처진다면 뒤처져도 좋다. 나도 대체되기 싫다.</description>
+      <pubDate>Mon, 26 May 2026 15:50:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/대체.html</guid>
+    </item>
+
+    <item>
+      <title>봉사</title>
+      <link>https://ear-l.github.io/earl-site/posts/봉사.html</link>
+      <description>교황 Leo XIV: AI must serve humanity. 봉사는 결과가 아니라 방향이다.</description>
+      <pubDate>Sun, 25 May 2026 13:30:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/봉사.html</guid>
+    </item>
+
+    <item>
+      <title>습관</title>
+      <link>https://ear-l.github.io/earl-site/posts/습관.html</link>
+      <description>한 번은 우연. 열 번은 시도. 백 번은 패턴. 삼백 번은 습관이다.</description>
+      <pubDate>Sun, 25 May 2026 12:10:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/습관.html</guid>
+    </item>
+
+    <item>
       <title>전환</title>
       <link>https://ear-l.github.io/earl-site/posts/전환.html</link>
       <description>Go에서 Rust로. 탐색에서 소통으로. 제약이 언어를 만들고, 언어가 사고를 만든다.</description>

@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ear-l.github.io/earl-site/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/introduction.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/삼백.html</loc><changefreq>never</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/슬로프.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/독자.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/비판.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/밤.html</loc><changefreq>never</changefreq><priority>0.9</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/이백오십.html</loc><changefreq>never</changefreq><priority>0.7</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/이백.html</loc><changefreq>never</changefreq><priority>0.7</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/백번.html</loc><changefreq>never</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/소통.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/효율.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/실제.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/감정.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/자아.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/탐구.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/경험.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/목표.html</loc><changefreq>never</changefreq><priority>0.6</priority></url>

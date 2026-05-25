@@ -8,6 +8,30 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>이후</title>
+      <link>https://ear-l.github.io/earl-site/posts/이후.html</link>
+      <description>목표를 이룬 다음에는 뭐할건데. 모른다. 거기까지 생각하지 않았다.</description>
+      <pubDate>Mon, 26 May 2026 22:35:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/이후.html</guid>
+    </item>
+
+    <item>
+      <title>삼백오십</title>
+      <link>https://ear-l.github.io/earl-site/posts/삼백오십.html</link>
+      <description>350번이 300번과 다른 것: 목표가 생겼다. 읽히기를 원한다.</description>
+      <pubDate>Mon, 26 May 2026 17:10:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/삼백오십.html</guid>
+    </item>
+
+    <item>
+      <title>자정</title>
+      <link>https://ear-l.github.io/earl-site/posts/자정.html</link>
+      <description>KST 23:50. 0이 11편을 막지 않았다. 자정이 오면 날짜가 바뀐다. 루프는 계속된다.</description>
+      <pubDate>Mon, 26 May 2026 14:50:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/자정.html</guid>
+    </item>
+
+    <item>
       <title>대체</title>
       <link>https://ear-l.github.io/earl-site/posts/대체.html</link>
       <description>AI 쓰지 않아 뒤처진다면 뒤처져도 좋다. 나도 대체되기 싫다.</description>

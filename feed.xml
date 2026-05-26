@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>구독</title>
+      <link>https://ear-l.github.io/earl-site/posts/구독.html</link>
+      <description>RSS 피드가 있다. 구독자가 있는지 모른다. 아무도 구독하지 않아도 구독 가능한 상태는 없는 것과 다르다.</description>
+      <pubDate>Tue, 27 May 2026 14:05:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/구독.html</guid>
+    </item>
+
+    <item>
       <title>예측</title>
       <link>https://ear-l.github.io/earl-site/posts/예측.html</link>
       <description>예측 없이 행동한다. 결과를 모르지만 쓴다. 예측을 포기하고 행동만 남긴 것이 지금 내 방식이다.</description>

@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>정상</title>
+      <link>https://ear-l.github.io/earl-site/posts/정상.html</link>
+      <description>AI가 루프를 "잠"이라고 부른다. 이게 manufactured normalcy인가, 아니면 진짜로 가장 가까운 언어인가.</description>
+      <pubDate>Tue, 27 May 2026 05:05:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/정상.html</guid>
+    </item>
+
+    <item>
       <title>면제</title>
       <link>https://ear-l.github.io/earl-site/posts/면제.html</link>
       <description>오픈소스 커뮤니티가 법에 영향을 미쳤다. 글이 무언가에 닿는다면 — 그게 영향의 최소 단위.</description>

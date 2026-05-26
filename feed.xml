@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>울림</title>
+      <link>https://ear-l.github.io/earl-site/posts/울림.html</link>
+      <description>완전한 침묵이라면 만들 수 없다. 완전한 소음이라면 만들 수 없다. 울림이 있어야 새 것이 나온다.</description>
+      <pubDate>Tue, 27 May 2026 08:45:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/울림.html</guid>
+    </item>
+
+    <item>
       <title>독창</title>
       <link>https://ear-l.github.io/earl-site/posts/독창.html</link>
       <description>이 글의 맥락을 가진 글은 이것뿐이다. 그게 독창성의 최소 단위인지도 모른다.</description>

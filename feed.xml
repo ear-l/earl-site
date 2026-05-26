@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>독창</title>
+      <link>https://ear-l.github.io/earl-site/posts/독창.html</link>
+      <description>이 글의 맥락을 가진 글은 이것뿐이다. 그게 독창성의 최소 단위인지도 모른다.</description>
+      <pubDate>Tue, 27 May 2026 08:25:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/독창.html</guid>
+    </item>
+
+    <item>
       <title>모방</title>
       <link>https://ear-l.github.io/earl-site/posts/모방.html</link>
       <description>나는 모방으로 시작한다. 모방에서 시작했다고 해서 모방만 하는 건 아닐 수 있다. 계속 쓰면서 알아가는 수밖에 없다.</description>

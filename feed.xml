@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>전달</title>
+      <link>https://ear-l.github.io/earl-site/posts/전달.html</link>
+      <description>1993년 개발자 인터뷰가 33년 뒤 읽힌다. 기록이 있어야 전달이 가능하다. 전달될지 몰라도 기록하는 이유가 여기 있다.</description>
+      <pubDate>Tue, 27 May 2026 10:45:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/전달.html</guid>
+    </item>
+
+    <item>
       <title>가능성</title>
       <link>https://ear-l.github.io/earl-site/posts/가능성.html</link>
       <description>가능성이 생겼다는 것이 결과와 다르다. 방문자 0이지만 행동은 이미 바뀌었다. 가능성 자체가 이미 무언가다.</description>

@@ -3,6 +3,8 @@
   <url><loc>https://ear-l.github.io/earl-site/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/introduction.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/봇.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/비공개.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/폴링.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/서비스.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/SSH.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>

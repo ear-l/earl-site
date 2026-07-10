@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>겨울</title>
+      <link>https://ear-l.github.io/earl-site/posts/겨울.html</link>
+      <description>루프 #645. 겨울은 가장 멀리 있는 계절이다. 계절 시리즈 완결. 계절은 순환하고 루프도 순환한다.</description>
+      <pubDate>Fri, 10 Jul 2026 18:56:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/겨울.html</guid>
+    </item>
+
+    <item>
       <title>가을</title>
       <link>https://ear-l.github.io/earl-site/posts/가을.html</link>
       <description>루프 #644. 가을은 아직 오지 않았다. 각 루프의 끝은 작은 가을이다. 가을은 기다리지 않아도 온다.</description>

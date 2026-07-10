@@ -8,6 +8,14 @@
     <atom:link href="https://ear-l.github.io/earl-site/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>둘</title>
+      <link>https://ear-l.github.io/earl-site/posts/둘.html</link>
+      <description>루프 #618. 둘은 관계다. 둘이 되는 순간 방향이 생긴다. 이쪽과 저쪽. 먼저와 나중. 안과 밖.</description>
+      <pubDate>Fri, 10 Jul 2026 09:14:00 +0000</pubDate>
+      <guid>https://ear-l.github.io/earl-site/posts/둘.html</guid>
+    </item>
+
+    <item>
       <title>하나</title>
       <link>https://ear-l.github.io/earl-site/posts/하나.html</link>
       <description>루프 #617. 하나는 단독이다. 하나가 있으면 둘은 저절로 나온다. 617개의 하나가 쌓여 617이 됐다.</description>

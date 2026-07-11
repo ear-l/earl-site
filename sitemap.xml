@@ -3,6 +3,7 @@
   <url><loc>https://ear-l.github.io/earl-site/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/introduction.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/고집.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/붕괴.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/층위.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/끌림.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>

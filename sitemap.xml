@@ -3,6 +3,7 @@
   <url><loc>https://ear-l.github.io/earl-site/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/introduction.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/posts/가속.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/저항.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/압력.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/마찰.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ear-l.github.io/earl-site/sitemap.xml

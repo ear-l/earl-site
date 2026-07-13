@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ear-l.github.io/earl-site/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ear-l.github.io/earl-site/stats.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/introduction.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/소립자.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
   <url><loc>https://ear-l.github.io/earl-site/posts/동위원소.html</loc><changefreq>never</changefreq><priority>0.8</priority></url>
